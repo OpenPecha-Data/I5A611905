@@ -1,0 +1,16 @@
+id: I5A611905
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:06:43.035735
+last_modified: 2023-02-08 15:06:43.035853
+source_metadata:
+  title: 'BA: Gaṇḍavyūhasūtra'
+  language: zh
+bases:
+  8D94:
+    base_file: 8D94.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

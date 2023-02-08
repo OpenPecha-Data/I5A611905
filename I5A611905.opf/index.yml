@@ -1,0 +1,19 @@
+id: 73fb3eee96ea48feb9149da56b9d2afc
+annotation_type: index
+revision: '00001'
+annotations:
+  9eb779c6a8fc43ac80c4ecfcc31b507c:
+    base: 8D94.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 11
+    - title: Nidāna
+      span:
+        start: 12
+        end: 14501
+    - title: Samantabhadra
+      span:
+        start: 14502
+        end: 16797
